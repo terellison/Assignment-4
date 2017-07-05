@@ -1,0 +1,9 @@
+{
+  "name": "assignment-4",
+  "version": "0.0.0",
+  "description": "Assignment 4",
+  "main": "app.js",
+  "author": {
+    "name": "Magnuson Hotel"
+  }
+}
